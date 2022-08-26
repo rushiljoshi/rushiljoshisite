@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.054d4646.css",
-    "main.js": "/static/js/main.e40aafc2.js",
-    "static/media/blueprint.ttf": "/static/media/blueprint.5c70ab156cc02d25e04a.ttf",
-    "static/media/Cocogoose Pro Regular Trial.ttf": "/static/media/Cocogoose Pro Regular Trial.6731ef40f4416b5c9069.ttf",
-    "static/media/Quando-Regular.ttf": "/static/media/Quando-Regular.d073a676df35111aa695.ttf",
-    "static/media/profile.jpeg": "/static/media/profile.0deeb3e56462f0996b58.jpeg",
-    "static/media/Tourmaline-Lines.ttf": "/static/media/Tourmaline-Lines.4501a34aa742c052e288.ttf",
-    "static/media/TYPOGRAPH PRO Ultra Light.ttf": "/static/media/TYPOGRAPH PRO Ultra Light.3b5d1b01b17d8c491b73.ttf",
-    "static/media/TYPOGRAPH PRO Semi Bold.ttf": "/static/media/TYPOGRAPH PRO Semi Bold.9862a5d041d0b264fcb9.ttf",
-    "static/media/TYPOGRAPH PRO Light.ttf": "/static/media/TYPOGRAPH PRO Light.3560508b78def84c8cf7.ttf",
-    "static/media/TYPOGRAPH PRO Semi Bold Italic.ttf": "/static/media/TYPOGRAPH PRO Semi Bold Italic.1501cb5be644b3baf0d2.ttf",
-    "static/media/TYPOGRAPH PRO Extra Bold.ttf": "/static/media/TYPOGRAPH PRO Extra Bold.b77303e691158ff892e8.ttf",
-    "static/media/TYPOGRAPH PRO Light Italic.ttf": "/static/media/TYPOGRAPH PRO Light Italic.bf0b41bca8ec824bac5a.ttf",
-    "static/media/TYPOGRAPH PRO Ultra Light Italic.ttf": "/static/media/TYPOGRAPH PRO Ultra Light Italic.f5a3ac74a00ccb3f26b3.ttf",
-    "index.html": "/index.html",
-    "main.054d4646.css.map": "/static/css/main.054d4646.css.map",
-    "main.e40aafc2.js.map": "/static/js/main.e40aafc2.js.map"
+    "main.css": "/rushiljoshisite/static/css/main.943d464f.css",
+    "main.js": "/rushiljoshisite/static/js/main.e40aafc2.js",
+    "static/media/blueprint.ttf": "/rushiljoshisite/static/media/blueprint.5c70ab156cc02d25e04a.ttf",
+    "static/media/Cocogoose Pro Regular Trial.ttf": "/rushiljoshisite/static/media/Cocogoose Pro Regular Trial.6731ef40f4416b5c9069.ttf",
+    "static/media/Quando-Regular.ttf": "/rushiljoshisite/static/media/Quando-Regular.d073a676df35111aa695.ttf",
+    "static/media/profile.jpeg": "/rushiljoshisite/static/media/profile.0deeb3e56462f0996b58.jpeg",
+    "static/media/Tourmaline-Lines.ttf": "/rushiljoshisite/static/media/Tourmaline-Lines.4501a34aa742c052e288.ttf",
+    "static/media/TYPOGRAPH PRO Ultra Light.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Ultra Light.3b5d1b01b17d8c491b73.ttf",
+    "static/media/TYPOGRAPH PRO Semi Bold.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Semi Bold.9862a5d041d0b264fcb9.ttf",
+    "static/media/TYPOGRAPH PRO Light.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Light.3560508b78def84c8cf7.ttf",
+    "static/media/TYPOGRAPH PRO Semi Bold Italic.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Semi Bold Italic.1501cb5be644b3baf0d2.ttf",
+    "static/media/TYPOGRAPH PRO Extra Bold.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Extra Bold.b77303e691158ff892e8.ttf",
+    "static/media/TYPOGRAPH PRO Light Italic.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Light Italic.bf0b41bca8ec824bac5a.ttf",
+    "static/media/TYPOGRAPH PRO Ultra Light Italic.ttf": "/rushiljoshisite/static/media/TYPOGRAPH PRO Ultra Light Italic.f5a3ac74a00ccb3f26b3.ttf",
+    "index.html": "/rushiljoshisite/index.html",
+    "main.943d464f.css.map": "/rushiljoshisite/static/css/main.943d464f.css.map",
+    "main.e40aafc2.js.map": "/rushiljoshisite/static/js/main.e40aafc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.054d4646.css",
+    "static/css/main.943d464f.css",
     "static/js/main.e40aafc2.js"
   ]
 }
