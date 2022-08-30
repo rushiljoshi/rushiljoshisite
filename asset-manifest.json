@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.468580c7.css",
-    "main.js": "/static/js/main.d4a184f3.js",
+    "main.css": "/static/css/main.7b7cd2c2.css",
+    "main.js": "/static/js/main.42423e2f.js",
     "static/media/blueprint.ttf": "/static/media/blueprint.5c70ab156cc02d25e04a.ttf",
     "static/media/Cocogoose Pro Regular Trial.ttf": "/static/media/Cocogoose Pro Regular Trial.6731ef40f4416b5c9069.ttf",
     "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
@@ -22,11 +22,11 @@
     "static/media/mysql.png": "/static/media/mysql.aa790b3c3edcf0510519.png",
     "static/media/python.webp": "/static/media/python.375551280ef593fa6362.webp",
     "index.html": "/index.html",
-    "main.468580c7.css.map": "/static/css/main.468580c7.css.map",
-    "main.d4a184f3.js.map": "/static/js/main.d4a184f3.js.map"
+    "main.7b7cd2c2.css.map": "/static/css/main.7b7cd2c2.css.map",
+    "main.42423e2f.js.map": "/static/js/main.42423e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.468580c7.css",
-    "static/js/main.d4a184f3.js"
+    "static/css/main.7b7cd2c2.css",
+    "static/js/main.42423e2f.js"
   ]
 }
