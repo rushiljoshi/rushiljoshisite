@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.054d4646.css",
-    "main.js": "/static/js/main.e40aafc2.js",
+    "main.css": "/static/css/main.468580c7.css",
+    "main.js": "/static/js/main.d4a184f3.js",
     "static/media/blueprint.ttf": "/static/media/blueprint.5c70ab156cc02d25e04a.ttf",
     "static/media/Cocogoose Pro Regular Trial.ttf": "/static/media/Cocogoose Pro Regular Trial.6731ef40f4416b5c9069.ttf",
+    "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/Quando-Regular.ttf": "/static/media/Quando-Regular.d073a676df35111aa695.ttf",
     "static/media/profile.jpeg": "/static/media/profile.0deeb3e56462f0996b58.jpeg",
+    "static/media/tensorflow.png": "/static/media/tensorflow.5d49847106d9588c5473.png",
+    "static/media/photoshop.png": "/static/media/photoshop.33821753c0629b734e8f.png",
     "static/media/Tourmaline-Lines.ttf": "/static/media/Tourmaline-Lines.4501a34aa742c052e288.ttf",
     "static/media/TYPOGRAPH PRO Ultra Light.ttf": "/static/media/TYPOGRAPH PRO Ultra Light.3b5d1b01b17d8c491b73.ttf",
     "static/media/TYPOGRAPH PRO Semi Bold.ttf": "/static/media/TYPOGRAPH PRO Semi Bold.9862a5d041d0b264fcb9.ttf",
@@ -14,12 +17,16 @@
     "static/media/TYPOGRAPH PRO Extra Bold.ttf": "/static/media/TYPOGRAPH PRO Extra Bold.b77303e691158ff892e8.ttf",
     "static/media/TYPOGRAPH PRO Light Italic.ttf": "/static/media/TYPOGRAPH PRO Light Italic.bf0b41bca8ec824bac5a.ttf",
     "static/media/TYPOGRAPH PRO Ultra Light Italic.ttf": "/static/media/TYPOGRAPH PRO Ultra Light Italic.f5a3ac74a00ccb3f26b3.ttf",
+    "static/media/pytorch.png": "/static/media/pytorch.e233fc48a48fde996610.png",
+    "static/media/excel.png": "/static/media/excel.be08b6769aedbfeb4b54.png",
+    "static/media/mysql.png": "/static/media/mysql.aa790b3c3edcf0510519.png",
+    "static/media/python.webp": "/static/media/python.375551280ef593fa6362.webp",
     "index.html": "/index.html",
-    "main.054d4646.css.map": "/static/css/main.054d4646.css.map",
-    "main.e40aafc2.js.map": "/static/js/main.e40aafc2.js.map"
+    "main.468580c7.css.map": "/static/css/main.468580c7.css.map",
+    "main.d4a184f3.js.map": "/static/js/main.d4a184f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.054d4646.css",
-    "static/js/main.e40aafc2.js"
+    "static/css/main.468580c7.css",
+    "static/js/main.d4a184f3.js"
   ]
 }
