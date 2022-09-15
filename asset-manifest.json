@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d74cbf66.css",
-    "main.js": "/static/js/main.6b83088e.js",
+    "main.css": "/static/css/main.650b0399.css",
+    "main.js": "/static/js/main.95367092.js",
     "static/media/blueprint.ttf": "/static/media/blueprint.5c70ab156cc02d25e04a.ttf",
     "static/media/Cocogoose Pro Regular Trial.ttf": "/static/media/Cocogoose Pro Regular Trial.6731ef40f4416b5c9069.ttf",
     "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
@@ -29,11 +29,11 @@
     "static/media/python.webp": "/static/media/python.375551280ef593fa6362.webp",
     "static/media/coffee.svg": "/static/media/coffee.acb5331edd0151dda5df.svg",
     "index.html": "/index.html",
-    "main.d74cbf66.css.map": "/static/css/main.d74cbf66.css.map",
-    "main.6b83088e.js.map": "/static/js/main.6b83088e.js.map"
+    "main.650b0399.css.map": "/static/css/main.650b0399.css.map",
+    "main.95367092.js.map": "/static/js/main.95367092.js.map"
   },
   "entrypoints": [
-    "static/css/main.d74cbf66.css",
-    "static/js/main.6b83088e.js"
+    "static/css/main.650b0399.css",
+    "static/js/main.95367092.js"
   ]
 }
